@@ -1,0 +1,14 @@
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\BossFight Oppgave\BossFight Oppgave\bin\Debug\net6.0\BossFight Oppgave.exe
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\BossFight Oppgave\BossFight Oppgave\bin\Debug\net6.0\BossFight Oppgave.deps.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\BossFight Oppgave\BossFight Oppgave\bin\Debug\net6.0\BossFight Oppgave.runtimeconfig.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\BossFight Oppgave\BossFight Oppgave\bin\Debug\net6.0\BossFight Oppgave.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\BossFight Oppgave\BossFight Oppgave\bin\Debug\net6.0\BossFight Oppgave.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\BossFight Oppgave\BossFight Oppgave\obj\Debug\net6.0\BossFight Oppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\BossFight Oppgave\BossFight Oppgave\obj\Debug\net6.0\BossFight Oppgave.AssemblyInfoInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\BossFight Oppgave\BossFight Oppgave\obj\Debug\net6.0\BossFight Oppgave.AssemblyInfo.cs
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\BossFight Oppgave\BossFight Oppgave\obj\Debug\net6.0\BossFight Oppgave.csproj.CoreCompileInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\BossFight Oppgave\BossFight Oppgave\obj\Debug\net6.0\BossFight Oppgave.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\BossFight Oppgave\BossFight Oppgave\obj\Debug\net6.0\refint\BossFight Oppgave.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\BossFight Oppgave\BossFight Oppgave\obj\Debug\net6.0\BossFight Oppgave.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\BossFight Oppgave\BossFight Oppgave\obj\Debug\net6.0\BossFight Oppgave.genruntimeconfig.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\BossFight Oppgave\BossFight Oppgave\obj\Debug\net6.0\ref\BossFight Oppgave.dll
